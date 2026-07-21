@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bandar Bajandoh</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+Developer;React+Developer;PHP+Developer;Building+Modern+Web+Applications" />
+</p>
+
 <h3 align="center">
 Full-Stack Developer | Laravel • React • PHP • MySQL
 </h3>
@@ -30,6 +34,24 @@ Passionate Information Technology graduate who enjoys building scalable, secure,
 
 ---
 
+# 💼 Core Skills
+
+✅ Full-Stack Development
+
+✅ REST API Development
+
+✅ Database Design
+
+✅ Responsive Web Design
+
+✅ Authentication & Authorization
+
+✅ Clean Code
+
+✅ MVC Architecture
+
+✅ Software Engineering
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -46,19 +68,22 @@ Passionate Information Technology graduate who enjoys building scalable, secure,
 
 ## E-Platform for Wholesaler and Retailer Trade
 
-A full-stack B2B web platform connecting wholesalers and retailers through a modern, secure, and responsive web application.
+A modern B2B wholesale web platform built using Laravel and MySQL to connect wholesalers and retailers.
 
-### Technologies
+### Key Features
 
-- Laravel
-- PHP
-- MySQL
-- JavaScript
-- HTML5
-- CSS3
+- Secure Authentication
+- Product Management
+- Supplier Dashboard
+- Retailer Dashboard
+- Shopping Cart
+- Order Management
 - REST APIs
+- Responsive UI
 
----
+### Tech Stack
+
+Laravel • PHP • MySQL • JavaScript • HTML • CSS
 
 # 🌱 Currently Learning
 
@@ -88,6 +113,10 @@ Email
 ---
 
 <p align="center">
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bandar118&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ⭐ Thanks for visiting my profile!
 
