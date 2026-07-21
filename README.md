@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Bandar Bajandoh
 
-<!--
-**bandar118/bandar118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm an Information Technology graduate passionate about building modern, scalable, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- Laravel
+- React
+- PHP
+- JavaScript
+- MySQL
+- REST APIs
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+---
+
+## 🎓 Education
+
+Bachelor's Degree in Information Technology
+
+---
+
+## 🌟 Featured Project
+
+### E-Platform for Wholesaler and Retailer Trade
+
+A B2B wholesale platform that connects wholesalers and retailers through a modern web application built with Laravel and MySQL.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/bandar-bajandoh-a1b011424/
+- GitHub: https://github.com/bandar118
+
+---
+
+⭐ Always learning and building better software.
