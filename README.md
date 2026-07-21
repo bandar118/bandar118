@@ -1,45 +1,94 @@
-# Hi 👋, I'm Bandar Bajandoh
+<h1 align="center">Hi 👋, I'm Bandar Bajandoh</h1>
 
-## 💻 Full-Stack Developer
+<h3 align="center">
+Full-Stack Developer | Laravel • React • PHP • MySQL
+</h3>
 
-I'm an Information Technology graduate passionate about building modern, scalable, and user-friendly web applications.
+<p align="center">
+Passionate Information Technology graduate who enjoys building scalable, secure, and modern web applications.
+</p>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 About Me
+
+- 💻 Full-Stack Web Developer
+- 🎓 Bachelor's Degree in Information Technology
+- 🌍 Based in Makkah, Saudi Arabia
+- 🌱 Currently learning Advanced Laravel, React, Docker, and Clean Architecture
+- ⚡ Interested in Web Development, REST APIs, and Software Engineering
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,react,php,mysql,js,html,css,bootstrap,git,github,vscode,postman" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bandar118&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandar118&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## E-Platform for Wholesaler and Retailer Trade
+
+A full-stack B2B web platform connecting wholesalers and retailers through a modern, secure, and responsive web application.
+
+### Technologies
 
 - Laravel
-- React
 - PHP
-- JavaScript
 - MySQL
-- REST APIs
+- JavaScript
 - HTML5
 - CSS3
-- Git
-- GitHub
+- REST APIs
 
 ---
 
-## 🎓 Education
+# 🌱 Currently Learning
 
-Bachelor's Degree in Information Technology
-
----
-
-## 🌟 Featured Project
-
-### E-Platform for Wholesaler and Retailer Trade
-
-A B2B wholesale platform that connects wholesalers and retailers through a modern web application built with Laravel and MySQL.
+- Advanced Laravel
+- React Ecosystem
+- Docker
+- Clean Architecture
 
 ---
 
-## 📫 Contact
+# 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/bandar-bajandoh-a1b011424/
-- GitHub: https://github.com/bandar118
+<p align="left">
+
+<a href="https://www.linkedin.com/in/bandar-bajandoh-a1b011424">
+LinkedIn
+</a>
+
+<br>
+
+<a href="mailto:bandar.bjn1@gmail.com">
+Email
+</a>
+
+</p>
 
 ---
 
-⭐ Always learning and building better software.
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
